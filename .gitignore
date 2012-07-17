@@ -1,3 +1,5 @@
 .rspec
 pkg
 spec/test.db
+.rvmrc
+.bundle
